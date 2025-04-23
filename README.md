@@ -5,7 +5,7 @@
 
 <!-- Your Profile Image -->
 <p align="center">
-  <a href="https://ibb.co.com/qFsR5G1Y"><img src="https://i.ibb.co.com/fGpCvR0d/Chat-GPT-Image-Apr-24-2025-12-37-56-AM.png" alt="nironjonroy" border="0"></a>
+  <a href="https://ibb.co.com/qFsR5G1Y"><img src="nironjon.png" alt="nironjonroy" border="0"></a>
 </p>
 
 ---
