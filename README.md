@@ -6,8 +6,11 @@
 
 <!-- Your Profile Image -->
 <p align="center">
-  <a href="https://ibb.co.com/qFsR5G1Y"><img src="nironjon.png" alt="nironjonroy" border="0"></a>
+  <a href="https://ibb.co.com/qFsR5G1Y">
+    <img src="nironjon.png" alt="nironjonroy" style="width: 100%; height: 400px; object-fit: cover; border-radius: 10px;" />
+  </a>
 </p>
+
 
 ---
 
@@ -46,8 +49,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nironjonroy&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nironjonroy&theme=radical" width="48%" />
+  <!-- GitHub Stats Image -->
+  <img src="https://github-readme-stats.vercel.app/api?username=nironjonroy&show_icons=true&theme=radical" width="48%" alt="GitHub Stats" />
+
+  <!-- Trophy or Achievement Image -->
+  <img src="https://img.shields.io/badge/🏆-Achievements-green?style=for-the-badge&logo=trophy&logoColor=white" width="48%" alt="Achievements Trophy" />
 </p>
 
 ---
