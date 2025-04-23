@@ -1,7 +1,8 @@
 <!-- Typing Animation (will work properly on GitHub) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00C896&width=435&lines=Hey+there!+I'm+Nironjon+Roy+👋;Web+Developer+%7C+Laravel+%7C+React;Frontend+%2B+Backend+Craftsman+%F0%9F%94%A5;Always+Learning+%7C+Always+Coding" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C896&width=435&lines=Hey+there!+I'm+Nironjon+Roy+👋;Web+Developer+%7C+Laravel+%7C+React;Frontend+%2B+Backend+Craftsman+%F0%9F%94%A5;Always+Learning+%7C+Always+Coding" alt="Typing SVG" />
 </p>
+
 
 <!-- Your Profile Image -->
 <p align="center">
