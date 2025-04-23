@@ -7,7 +7,7 @@
 <!-- Your Profile Image -->
 <p align="center">
   <a href="https://ibb.co.com/qFsR5G1Y">
-    <img src="nironjon.png" alt="nironjonroy" style="width: 100%; height: 400px; object-fit: cover; border-radius: 10px;" />
+  <img src="nironjon.png" alt="nironjonroy" style="width: 100%; border-radius: 10px;" />
   </a>
 </p>
 
