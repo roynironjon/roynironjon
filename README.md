@@ -20,7 +20,7 @@
 - 🔧 Tech Stack: `HTML`, `CSS`, `Bootstrap`, `Tailwind`, `JavaScript`, `PHP`, `Laravel`, `React`, `MySQL`
 - 💡 Currently learning: **Tailwind CSS & Advanced Laravel**
 - 🧠 Also skilled in: WordPress, Elementor, Figma, UI/UX
-- 📬 Email: [nironjonroy.dev@gmail.com](mailto:nironjonroy.dev@gmail.com)
+- 📬 Email: [nironjonroy532@gmail.com](nironjonroy532@gmail.com)
 - 😄 Fun fact: I’m always coding with ☕ and memes 🤣
 
 ---
